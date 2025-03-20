@@ -1,0 +1,45 @@
+body{
+    background:radial-gradient(circle,yellow,orange);
+
+}
+h1{
+    text-align: center;
+    justify-content: center;
+    font-size: 60px;
+}
+#p1{
+    text-align: center;
+    justify-content: center;
+}
+#b1{
+    display: inline-block;
+    padding:20px 60px;
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: chocolate;
+    border: double;
+    border-radius: 8px;
+  
+}
+#cs1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 72px;
+    
+}
+.guesses{
+    font-size:x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    
+}
+#l1{
+    padding: 30px 80px;
+    border-radius: 5px;
+   
+
+}
+.cs2{
+    text-align: center;
+    justify-content: center;
+    font-size: 40px;
+}
